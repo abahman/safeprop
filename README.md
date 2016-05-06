@@ -21,6 +21,12 @@ $ pip install --editable .
 Requirements:
 
 * CoolProp
+* 
+## TODO
+
+* Make fluid name option variable and set at import.
+* Optionally fix the cache size with FIFO buffer.
+* Improve the documentation.
 
 
 ## License
